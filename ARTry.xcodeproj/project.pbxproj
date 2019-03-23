@@ -15,6 +15,7 @@
 		0500B88E2245E84E0006E7B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0500B88C2245E84E0006E7B6 /* LaunchScreen.storyboard */; };
 		0500B8992245E84E0006E7B6 /* ARTryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0500B8982245E84E0006E7B6 /* ARTryTests.swift */; };
 		0500B8A42245E84E0006E7B6 /* ARTryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0500B8A32245E84E0006E7B6 /* ARTryUITests.swift */; };
+		05929530224618AD0004A7E9 /* ProductInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0592952F224618AD0004A7E9 /* ProductInfo.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0500B89F2245E84E0006E7B6 /* ARTryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARTryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0500B8A32245E84E0006E7B6 /* ARTryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARTryUITests.swift; sourceTree = "<group>"; };
 		0500B8A52245E84E0006E7B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0592952F224618AD0004A7E9 /* ProductInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ProductInfo.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0500B8812245E84D0006E7B6 /* AppDelegate.swift */,
 				0500B8832245E84D0006E7B6 /* art.scnassets */,
 				0500B8852245E84D0006E7B6 /* ViewController.swift */,
+				0592952F224618AD0004A7E9 /* ProductInfo.sks */,
 				0500B8872245E84D0006E7B6 /* Main.storyboard */,
 				0500B88A2245E84E0006E7B6 /* Assets.xcassets */,
 				0500B88C2245E84E0006E7B6 /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				0500B8842245E84D0006E7B6 /* art.scnassets in Resources */,
 				0500B88E2245E84E0006E7B6 /* LaunchScreen.storyboard in Resources */,
+				05929530224618AD0004A7E9 /* ProductInfo.sks in Resources */,
 				0500B88B2245E84E0006E7B6 /* Assets.xcassets in Resources */,
 				0500B8892245E84D0006E7B6 /* Main.storyboard in Resources */,
 			);
